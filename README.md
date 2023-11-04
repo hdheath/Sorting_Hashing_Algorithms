@@ -1,4 +1,4 @@
-# Sorting_-_Hashing Algorithm Collection README
+# Sorting & Hashing Algorithm Collection README
 
 ## Description 
 
